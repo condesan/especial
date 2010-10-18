@@ -1,0 +1,45 @@
+body{
+background-color:#333;
+
+}
+
+#header {
+background:url("../images/cabecera.jpg") no-repeat scroll 0 0 transparent;
+height:250px;
+}
+
+#main-wrapper{
+background:url("../images/cuerpo.jpg") no-repeat scroll 0 0 transparent;
+height:1061px;
+
+}
+
+
+#footer{
+background:url("../images/pie.jpg") no-repeat scroll 0 0 transparent;
+height:173px;
+}
+
+#content-area {
+padding:10px 20px 10px 20px;
+}
+
+div.help{
+padding:0 20px 0 20px;
+}
+
+div.tabs{
+padding:0 20px 0 20px;
+}
+
+div.messages{
+padding:0 20px 0 20px;
+}
+
+h1.title, h2.title, h3.title {
+padding-left:20px;
+}
+
+div.breadcrumb{
+padding:0 20px 0 20px;
+}
