@@ -5,12 +5,12 @@ background-color:#333;
 
 #header {
 background:url("../images/cabecera.jpg") no-repeat scroll 0 0 transparent;
-height:250px;
+height:316px;
 }
 
 #main-wrapper{
 background:url("../images/cuerpo.jpg") no-repeat scroll 0 0 transparent;
-height:1061px;
+height:890px;
 
 }
 
@@ -43,3 +43,15 @@ padding-left:20px;
 div.breadcrumb{
 padding:0 20px 0 20px;
 }
+
+/* Portada */
+/*
+div.view-display-id-page_1 div.view-content span.field-content img{
+padding-top:20%;
+padding-left:15%;
+}
+
+div.view-display-id-page_1 div.view-content span.field-content{
+padding-left:30%;
+}*/
+
