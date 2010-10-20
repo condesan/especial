@@ -17,7 +17,7 @@ height:890px;
 
 #footer{
 background:url("../images/pie.jpg") no-repeat scroll 0 0 transparent;
-height:173px;
+height:230px;
 }
 
 #content-area {
@@ -45,13 +45,98 @@ padding:0 20px 0 20px;
 }
 
 /* Portada */
-/*
+
+/* Vista 1 */
 div.view-display-id-page_1 div.view-content span.field-content img{
-padding-top:20%;
-padding-left:15%;
+padding-left:40%;
 }
 
-div.view-display-id-page_1 div.view-content span.field-content{
-padding-left:30%;
+div.view-display-id-page_1 div.view-content div.views-field-title{
+padding-left:26%;
+color:#fff;
+}
+
+/* Vista 2 */
+div.view-display-id-page_2 div.view-content span.field-content img{
+padding-left:40%;
+}
+/*
+div.view-display-id-page_2 div.view-content span.field-content{
+padding-left:10%;
 }*/
 
+div.view-display-id-page_2 div.view-content div.views-field-title {
+padding-left:25%;
+width:150px;
+text-align:center;
+color:#fff;
+}
+
+
+div.view-display-id-page_2{
+padding-top:30px;
+}
+/* Vista 3 */
+div.view-display-id-page_3 div.view-content span.field-content img{
+padding-top:10px;
+padding-left:20%;
+}
+
+div.view-display-id-page_3 div.view-content div.views-field-title{
+padding-left:0%;
+color:#fff;
+}
+
+/* Vista 4 */
+div.view-display-id-page_4 div.view-content span.field-content img{
+padding-left:20%;
+}
+
+div.view-display-id-page_4 div.view-content div.views-field-title{
+padding-left:16%;
+color:#fff;
+}
+
+/* Vista 5 */
+div.view-display-id-page_5 div.view-content span.field-content img{
+padding-top:10px;
+padding-left:20%;
+}
+
+div.view-display-id-page_5 div.view-content div.views-field-title{
+padding-left:16%;
+color:#fff;
+}
+
+/* Vista 7 Texto portada izquierda superior  */
+
+div.view-display-id-page_7 div.view-content div.field-content p{
+color:#fff;
+padding-left:20px;
+}
+
+div.view-display-id-page_8 div.view-content div.field-content p{
+color:#fff;
+padding-left:20px;
+}
+
+div.panels-flexible-row-home-main-row{
+padding-bottom:20px;
+}
+
+
+
+
+
+div.panels-flexible-region-home-fila2reg3{
+padding-top:18px;
+}
+div.panels-flexible-region-home-fila2reg1{
+padding-top:60px;
+}
+
+
+div.view-timeline-nodes div.view-content{
+padding-top:5%;
+padding-left:13%;
+}
