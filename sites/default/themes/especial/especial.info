@@ -75,6 +75,15 @@ regions[content_bottom] = Content bottom
 regions[header]         = Header
 regions[footer]         = Footer
 regions[page_closure]   = Page closure
+regions[slide] = Slide
+
+scripts[] = slide.js
+scripts[] = jquery.cycle/jquery.cycle.all.min.js
+scripts[] = especial.js
+
+stylesheets[all][]  = style.css
+stylesheets[all][]  = slide.css
+
 
   ; Various page elements output by the theme can be toggled on and off. The
   ; "features" control which of these check boxes display on the

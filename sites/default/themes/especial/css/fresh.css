@@ -3,6 +3,10 @@ background-color:#333;
 
 }
 
+#page {
+background-color: #1A7440;
+}
+
 #header {
 background:url("../images/cabecera.jpg") no-repeat scroll 0 0 transparent;
 height:316px;
@@ -11,19 +15,17 @@ height:316px;
 #main-wrapper{
 background:url("../images/cuerpo.jpg") no-repeat scroll 0 0 transparent;
 height:auto;
-background-color:#0D4528;
-
+background-color:#1A7440;
 }
 
 #footer{
 background:url("../images/pie.jpg") no-repeat scroll 0 0 transparent;
-height:210px;
-padding-top:15px;
+height:140px;
 padding-bottom:20px;
 }
 
 #content-area {
-padding:10px 20px 10px 20px;
+padding:10px 20px 20px 20px;
 }
 
 div.help{
@@ -113,6 +115,7 @@ padding-top:5%;
 div.panels-flexible-cosecha div.view-display-id-page_7 div.view-content div.views-field-field-descripcion-value div.field-content{
 padding-left:5%;
 color:#fff;
+font-size:12px;
 }
 
 
@@ -120,13 +123,14 @@ color:#fff;
 div.panels-flexible-cosecha div.view-display-id-page_8 div.view-content div.views-field-field-descripcion-value div.field-content{
 padding-left:5%;
 color:#fff;
+font-size:12px;
 }
 
 div.panels-flexible-cosecha div.panels-flexible-row-cosecha-main-row{
-padding-bottom:3%;
+padding-bottom:2%;
 }
 div.panels-flexible-cosecha div.panels-flexible-row-cosecha-1{
-padding-bottom:5%;
+padding-bottom:3%;
 }
 
 div.view-display-id-page_1{
@@ -157,8 +161,18 @@ padding-bottom:20px;
 }
 
 
+div.view-display-id-page_12 div.view-content div.views-row{
+float:left;
+text-align:center;
+width:120px;
+}
 
-
+div.view-display-id-page_12 div.view-content div.views-row{
+padding:20px 0 25px 0;
+}
+div.view-display-id-page_12 div.view-content{
+padding-left:17%;
+}
 
 
 div.view-timeline-nodes div.view-content{
@@ -172,18 +186,19 @@ padding-left:13%;
 div.creditos{
 float:left;
 padding-left:6.5%;
-padding-top:5%;
+/*padding-top:5%;*/
 }
 
 div.agredec{
 float:left;
 padding-left:3%;
-padding-top:5%;
+/*padding-top:5%;*/
 }
 
 div.bannerdown{
+padding-top:10px;
 padding-left:3%;
-padding-top:6%;
+/*padding-top:6%;*/
 float:left;
 }
 
@@ -192,13 +207,15 @@ padding-right:5px;
 }
 
 div.view-display-id-page_9 div.view-content div.views-field-body div.field-content p{
-
+padding-top:10px;
+font-size:12px;
 width:280px;
 color:#fff;
 }
 
 div.view-display-id-page_10 div.view-content div.views-field-body div.field-content p{
-
+padding-top:10px;
+font-size:12px;
 width:280px;
 color:#fff;
 }
