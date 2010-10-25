@@ -10,14 +10,16 @@ height:316px;
 
 #main-wrapper{
 background:url("../images/cuerpo.jpg") no-repeat scroll 0 0 transparent;
-height:890px;
+height:auto;
+background-color:#0D4528;
 
 }
 
-
 #footer{
 background:url("../images/pie.jpg") no-repeat scroll 0 0 transparent;
-height:230px;
+height:210px;
+padding-top:15px;
+padding-bottom:20px;
 }
 
 #content-area {
@@ -44,81 +46,111 @@ div.breadcrumb{
 padding:0 20px 0 20px;
 }
 
-/* Portada */
+/* PANEL HOME */
 
 /* Vista 1 */
-div.view-display-id-page_1 div.view-content span.field-content img{
-padding-left:40%;
-}
-
-div.view-display-id-page_1 div.view-content div.views-field-title{
-padding-left:26%;
+div.panels-flexible-home div.view-display-id-page_1 div.view-content div.views-field-title{
 color:#fff;
 }
-
 /* Vista 2 */
-div.view-display-id-page_2 div.view-content span.field-content img{
-padding-left:40%;
-}
-/*
-div.view-display-id-page_2 div.view-content span.field-content{
-padding-left:10%;
-}*/
-
-div.view-display-id-page_2 div.view-content div.views-field-title {
-padding-left:25%;
-width:150px;
-text-align:center;
+div.panels-flexible-home div.view-display-id-page_2 div.view-content div.views-field-title {
 color:#fff;
-}
-
-
-div.view-display-id-page_2{
-padding-top:30px;
+width:150px;
+padding-left:20%;
 }
 /* Vista 3 */
-div.view-display-id-page_3 div.view-content span.field-content img{
-padding-top:10px;
-padding-left:20%;
-}
-
-div.view-display-id-page_3 div.view-content div.views-field-title{
-padding-left:0%;
+div.panels-flexible-home div.view-display-id-page_3 div.view-content div.views-field-title{
 color:#fff;
 }
-
 /* Vista 4 */
-div.view-display-id-page_4 div.view-content span.field-content img{
-padding-left:20%;
-}
-
-div.view-display-id-page_4 div.view-content div.views-field-title{
-padding-left:16%;
+div.panels-flexible-home div.view-display-id-page_4 div.view-content div.views-field-title{
 color:#fff;
 }
-
 /* Vista 5 */
-div.view-display-id-page_5 div.view-content span.field-content img{
-padding-top:10px;
-padding-left:20%;
-}
-
-div.view-display-id-page_5 div.view-content div.views-field-title{
-padding-left:16%;
+div.panels-flexible-home div.view-display-id-page_5 div.view-content div.views-field-title{
 color:#fff;
 }
 
 /* Vista 7 Texto portada izquierda superior  */
 
-div.view-display-id-page_7 div.view-content div.field-content p{
+div.panels-flexible-home div.view-display-id-page_7 div.view-content div.field-content p{
 color:#fff;
 padding-left:20px;
 }
 
-div.view-display-id-page_8 div.view-content div.field-content p{
+div.panels-flexible-home div.view-display-id-page_8 div.view-content div.field-content p{
 color:#fff;
 padding-left:20px;
 }
+
+div.panels-flexible-home div.panels-flexible-region-home-fila2reg3{
+padding-top:1%;
+}
+
+div.panels-flexible-region-home-fila2reg1{
+padding-top:6%;
+}
+
+div.panels-flexible-home div.view-display-id-page_2{
+padding-top:10%;
+}
+
+div.panels-flexible-home div.view-display-id-page_3{
+padding-top:5%;
+}
+
+div.panels-flexible-home div.view-display-id-page_5{
+padding-top:5%;
+}
+
+
+
+/* Fin del panel HOME */
+
+/* Cosecha del agua */
+
+/* Texto izquierda */
+div.panels-flexible-cosecha div.view-display-id-page_7 div.view-content div.views-field-field-descripcion-value div.field-content{
+padding-left:5%;
+color:#fff;
+}
+
+
+/* Texto derecho */
+div.panels-flexible-cosecha div.view-display-id-page_8 div.view-content div.views-field-field-descripcion-value div.field-content{
+padding-left:5%;
+color:#fff;
+}
+
+div.panels-flexible-cosecha div.panels-flexible-row-cosecha-main-row{
+padding-bottom:3%;
+}
+div.panels-flexible-cosecha div.panels-flexible-row-cosecha-1{
+padding-bottom:5%;
+}
+
+div.view-display-id-page_1{
+text-align:center;
+}
+
+div.view-display-id-page_2{
+text-align:center;
+}
+
+div.view-display-id-page_3{
+text-align:center;
+}
+
+div.view-display-id-page_4{
+text-align:center;
+}
+
+div.view-display-id-page_5{
+text-align:center;
+}
+
+
+/* Fin de cosecha del agua */
 
 div.panels-flexible-row-home-main-row{
 padding-bottom:20px;
@@ -128,15 +160,47 @@ padding-bottom:20px;
 
 
 
-div.panels-flexible-region-home-fila2reg3{
-padding-top:18px;
-}
-div.panels-flexible-region-home-fila2reg1{
-padding-top:60px;
-}
-
 
 div.view-timeline-nodes div.view-content{
 padding-top:5%;
 padding-left:13%;
 }
+
+/* PIE */
+
+
+div.creditos{
+float:left;
+padding-left:6.5%;
+padding-top:5%;
+}
+
+div.agredec{
+float:left;
+padding-left:3%;
+padding-top:5%;
+}
+
+div.bannerdown{
+padding-left:3%;
+padding-top:6%;
+float:left;
+}
+
+div.bannerdown a{
+padding-right:5px;
+}
+
+div.view-display-id-page_9 div.view-content div.views-field-body div.field-content p{
+
+width:280px;
+color:#fff;
+}
+
+div.view-display-id-page_10 div.view-content div.views-field-body div.field-content p{
+
+width:280px;
+color:#fff;
+}
+
+
