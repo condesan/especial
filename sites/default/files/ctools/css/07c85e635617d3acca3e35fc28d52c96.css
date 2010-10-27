@@ -1,0 +1,102 @@
+.panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-home-main {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-home-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.panels-flexible-home {
+  width: auto;
+}
+
+.panels-flexible-region-home-center {
+  float: left;
+  width: 49.5000%;
+}
+
+.panels-flexible-region-home-region2 {
+  float: left;
+  width: 49.5000%;
+}
+
+.panels-flexible-row-home-main-row-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.panels-flexible-region-home-fila2reg1 {
+  float: left;
+  width: 26.5532%;
+}
+
+.panels-flexible-region-home-fila2reg2 {
+  float: left;
+  width: 48.0536%;
+}
+
+.panels-flexible-region-home-fila2reg3 {
+  float: left;
+  width: 24.3932%;
+}
+
+.panels-flexible-row-home-1-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.panels-flexible-region-home-fila4reg1 {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-home-3-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+

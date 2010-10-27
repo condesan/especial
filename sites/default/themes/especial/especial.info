@@ -77,9 +77,10 @@ regions[footer]         = Footer
 regions[page_closure]   = Page closure
 regions[slide] = Slide
 
-scripts[] = slide.js
-scripts[] = jquery.cycle/jquery.cycle.all.min.js
-scripts[] = especial.js
+scripts[] = js/chili-1.7.pack.js
+scripts[] = js/jquery.cycle.all.2.72.js
+scripts[] = js/jquery.easing.1.1.1.js
+scripts[] = js/slideshow.js
 
 stylesheets[all][]  = style.css
 stylesheets[all][]  = slide.css

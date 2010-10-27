@@ -9,7 +9,7 @@ background-color: #1A7440;
 
 #header {
 background:url("../images/cabecera.jpg") no-repeat scroll 0 0 transparent;
-height:316px;
+height:260px;
 }
 
 #main-wrapper{
@@ -154,6 +154,7 @@ text-align:center;
 }
 
 
+
 /* Fin de cosecha del agua */
 
 div.panels-flexible-row-home-main-row{
@@ -219,5 +220,63 @@ font-size:12px;
 width:280px;
 color:#fff;
 }
+
+.nav li {
+float:left;
+}
+
+.slideshow .view-content .views-field-field-imagenes-fid .field-content img{
+float:left;
+padding-right:15px;
+padding-left:25%;
+}
+
+.slideshow{
+padding-top:2%;	
+}
+
+.nav{
+padding-top:2%;
+padding-left:5%;
+}
+
+
+
+.slideshow .view-content{
+width:700px;
+}
+
+.view-display-id-attachment_1 .view-content{
+width:800px;
+}
+
+.view-display-id-page_1 .view-content .views-field-field-descripcion-value .field-content{
+color:#fff;
+font-size:12px;
+}
+
+.view-display-id-page_2 .view-content .views-field-field-descripcion-value .field-content{
+color:#fff;
+font-size:12px;
+}
+
+.view-display-id-page_3 .view-content .views-field-field-descripcion-value .field-content{
+color:#fff;
+font-size:12px;
+}
+
+div.view-display-id-attachment_1 div.view-content div.views-row{
+text-align:center;
+}
+
+.view-display-id-attachment_1 .view-content .views-field-phpcode span.field-content a img{
+padding-left:10px;
+}
+
+.view-display-id-attachment_1 .view-content .item-list ul li{
+list-style-type: none;
+}
+
+
 
 
