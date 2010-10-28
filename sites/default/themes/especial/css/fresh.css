@@ -1,6 +1,5 @@
 body{
 background-color:#333;
-
 }
 
 #page {
@@ -26,6 +25,19 @@ padding-bottom:20px;
 
 #content-area {
 padding:10px 20px 20px 20px;
+}
+
+.breadcrumb a{
+color:#fff;
+font-size:12px;
+text-decoration:none;
+padding-left:3%;
+padding-top:1%;
+}
+
+.breadcrumb{
+
+color:#fff;
 }
 
 div.help{
@@ -105,7 +117,22 @@ div.panels-flexible-home div.view-display-id-page_5{
 padding-top:5%;
 }
 
+.portadacosecha{
+text-align:center;
+}
 
+.portadaproyeto{
+text-align:center;
+}
+.portadatesti{
+text-align:center;
+}
+.portadabiblio{
+text-align:center;
+}
+.portadacondesan{
+text-align:center;
+}
 
 /* Fin del panel HOME */
 
@@ -132,28 +159,13 @@ padding-bottom:2%;
 div.panels-flexible-cosecha div.panels-flexible-row-cosecha-1{
 padding-bottom:3%;
 }
-
-div.view-display-id-page_1{
+.cosechaimageninfra{
 text-align:center;
 }
 
-div.view-display-id-page_2{
-text-align:center;
+.menuinfra .view-content span.field-content{
+color:#fff;
 }
-
-div.view-display-id-page_3{
-text-align:center;
-}
-
-div.view-display-id-page_4{
-text-align:center;
-}
-
-div.view-display-id-page_5{
-text-align:center;
-}
-
-
 
 /* Fin de cosecha del agua */
 
@@ -181,6 +193,19 @@ padding-top:5%;
 padding-left:13%;
 }
 
+
+/* Proyecto de vida */
+.slideshowproyecto{
+float:right;
+padding: 5% 5% 15px 15px;
+}
+
+.proyectovidatexto{
+padding:5% 5% 3% 5%;
+color:#fff;
+font-size:12px;
+
+}
 /* PIE */
 
 
@@ -237,17 +262,11 @@ padding-top:2%;
 
 .nav{
 padding-top:2%;
-padding-left:5%;
+padding-left:10%;
 }
-
-
 
 .slideshow .view-content{
 width:700px;
-}
-
-.view-display-id-attachment_1 .view-content{
-width:800px;
 }
 
 .view-display-id-page_1 .view-content .views-field-field-descripcion-value .field-content{
@@ -265,18 +284,79 @@ color:#fff;
 font-size:12px;
 }
 
-div.view-display-id-attachment_1 div.view-content div.views-row{
+.nav .view-content .views-row{
 text-align:center;
 }
 
-.view-display-id-attachment_1 .view-content .views-field-phpcode span.field-content a img{
+.nav .view-content .views-field-phpcode span.field-content a img{
 padding-left:10px;
+padding-top:10px;
 }
 
-.view-display-id-attachment_1 .view-content .item-list ul li{
+.nav .view-content .item-list ul li{
 list-style-type: none;
 }
 
+.navideo .view-content .item-list ul li{
+list-style-type: none;
+}
 
+.slideshowvideo .view-content{
+margin:3% 0 10% 30%;
+}
+.navideo li{
+float:left;
+}
 
+.navideo .view-content .views-field-phpcode span.field-content a img{
+padding-right:15px;
+}
 
+.navideo .view-content{
+margin-top:32%;
+}
+
+.cosecharticulos a{
+text-decoration:none;
+color:#fff;
+font-size:12px;
+list-style: circle outside;
+}
+
+.cosecharticulos .view-content .views-row{
+padding-bottom:1%;
+}
+
+.cosecharticulos .view-content{
+padding-left:5%;
+}
+
+.panels-flexible-cosecha h2{
+color:#fff;
+padding-left:5%;
+}
+
+.cosechavideo{
+padding-left:5%;
+}
+
+/* Relación con condesan */
+
+.condesantexto{
+padding:5% 10% 12% 10%;
+}
+.condesantexto .field-content{
+color:#fff;
+font-size:12px;
+}
+
+ .condesanvideo{
+ padding-top:3%;
+ text-align:center;
+ }
+
+/* TEstimosnios */
+
+.testiIz{
+padding-left:5%;
+}
