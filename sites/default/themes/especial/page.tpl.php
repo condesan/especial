@@ -157,6 +157,7 @@
       <?php endif; ?>
 
       <?php print $header; ?>
+      <div class="section clearfix" style="height: 260px; background: url('<?php  print base_path().path_to_theme().'/images/'. arg(0).'.jpg';  ?>')">
 
     </div></div> <!-- /.section, /#header -->
 

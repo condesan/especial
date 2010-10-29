@@ -76,6 +76,8 @@ function especial_theme(&$existing, $type, $theme, $path) {
   return $hooks;
 }
 
+
+
 /**
  * Override or insert variables into all templates.
  *
