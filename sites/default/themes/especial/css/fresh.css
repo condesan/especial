@@ -219,9 +219,6 @@ text-align:center;
 width:120px;
 }
 
-div.view-display-id-page_12 div.view-content div.views-row{
-padding:20px 0 25px 0;
-}
 .menuinfra div.view-content{
 padding-left:17%;
 }
@@ -250,8 +247,7 @@ font-size:12px;
 
 div.creditos{
 float:left;
-padding-left:6.5%;
-/*padding-top:5%;*/
+padding: 0 0 2% 6.5%;
 }
 
 div.agredec{
@@ -393,7 +389,7 @@ padding-left:5%;
 /* Relación con condesan */
 
 .condesantexto{
-padding:5% 10% 12% 10%;
+padding:5% 10% 10% 10%;
 }
 .condesantexto .field-content{
 color:#fff;
@@ -417,9 +413,18 @@ padding-left:5%;
 
 .slideshowvideo .view-content .views-row .views-field-field-videos-embed span.field-content .emvideo-youtube{
 padding-top:5%;
-padding-left:43%;
 }
-
+/*
 .slideshowvideo .attachment-after .navideo{
 padding-top:35%;
 }
+*/
+
+
+
+.panels-flexible-region-testimonios-slideshowtestimonios {
+float:none;
+width:99%;
+}
+
+
