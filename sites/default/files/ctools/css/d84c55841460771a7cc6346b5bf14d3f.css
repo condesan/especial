@@ -41,66 +41,61 @@
   padding-bottom: 0;
 }
 
-.panels-flexible-column-cosecha-main {
+.panels-flexible-column-home-main {
   float: left;
   width: 99.0000%;
 }
 
-.panels-flexible-cosecha-inside {
+.panels-flexible-home-inside {
   padding-left: 0px;
   padding-right: 0px;
 }
 
-.panels-flexible-cosecha {
+.panels-flexible-home {
   width: auto;
 }
 
-.panels-flexible-region-cosecha-center {
+.panels-flexible-region-home-center {
   float: left;
   width: 49.5000%;
 }
 
-.panels-flexible-region-cosecha-region2 {
+.panels-flexible-region-home-region2 {
   float: left;
   width: 49.5000%;
 }
 
-.panels-flexible-row-cosecha-main-row-inside {
+.panels-flexible-row-home-main-row-inside {
   padding-left: 0px;
   padding-right: 0px;
 }
 
-.panels-flexible-region-cosecha-fila2reg1 {
+.panels-flexible-region-home-fila2reg1 {
   float: left;
-  width: 49.5000%;
+  width: 26.5532%;
 }
 
-.panels-flexible-region-cosecha-fila2reg2 {
+.panels-flexible-region-home-fila2reg2 {
   float: left;
-  width: 49.5000%;
+  width: 47.0996%;
 }
 
-.panels-flexible-row-cosecha-1-inside {
+.panels-flexible-region-home-fila2reg3 {
+  float: left;
+  width: 25.3473%;
+}
+
+.panels-flexible-row-home-1-inside {
   padding-left: 0px;
   padding-right: 0px;
 }
 
-.panels-flexible-region-cosecha-fila4reg1 {
+.panels-flexible-region-home-fila4reg1 {
   float: left;
   width: 99.0000%;
 }
 
-.panels-flexible-row-cosecha-3-inside {
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
-.panels-flexible-region-cosecha-icono_centro {
-  float: left;
-  width: 99.0000%;
-}
-
-.panels-flexible-row-cosecha-4-inside {
+.panels-flexible-row-home-3-inside {
   padding-left: 0px;
   padding-right: 0px;
 }
