@@ -41,61 +41,36 @@
   padding-bottom: 0;
 }
 
-.panels-flexible-column-home-main {
+.panels-flexible-column-proyectovidacaj-main {
   float: left;
   width: 99.0000%;
 }
 
-.panels-flexible-home-inside {
+.panels-flexible-proyectovidacaj-inside {
   padding-left: 0px;
   padding-right: 0px;
 }
 
-.panels-flexible-home {
+.panels-flexible-proyectovidacaj {
   width: auto;
 }
 
-.panels-flexible-region-home-center {
-  float: left;
-  width: 49.5000%;
-}
-
-.panels-flexible-region-home-region2 {
-  float: left;
-  width: 49.5000%;
-}
-
-.panels-flexible-row-home-main-row-inside {
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
-.panels-flexible-region-home-fila2reg1 {
-  float: left;
-  width: 26.5532%;
-}
-
-.panels-flexible-region-home-fila2reg2 {
-  float: left;
-  width: 47.0996%;
-}
-
-.panels-flexible-region-home-fila2reg3 {
-  float: left;
-  width: 25.3473%;
-}
-
-.panels-flexible-row-home-1-inside {
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
-.panels-flexible-region-home-fila4reg1 {
+.panels-flexible-region-proyectovidacaj-contenido {
   float: left;
   width: 99.0000%;
 }
 
-.panels-flexible-row-home-3-inside {
+.panels-flexible-row-proyectovidacaj-main-row-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.panels-flexible-region-proyectovidacaj-menucondesan {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-proyectovidacaj-3-inside {
   padding-left: 0px;
   padding-right: 0px;
 }

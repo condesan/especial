@@ -64,12 +64,11 @@ color:#fff;
 color:#fff;
 font-size:12px;
 text-decoration:none;
-padding-left:3%;
+/*padding-left:3%;*/
 padding-top:1%;
 }
 
 .breadcrumb{
-
 color:#fff;
 }
 
@@ -240,8 +239,14 @@ padding: 2% 5% 15px 15px;
 padding:2% 5% 0% 5%;
 color:#fff;
 font-size:12px;
-
 }
+
+.pane-cosechadelagua .menuinfra{
+padding:5% 0 8% 0;
+}
+
+
+
 /* PIE */
 
 
